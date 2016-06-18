@@ -1,0 +1,57 @@
+.header{
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    height: 48px;
+
+}
+.video1{
+    width: 800px;
+    height:450px;
+    margin-top: 10px;
+    
+
+}
+.container2{
+    margin: 0 auto;
+    width:800px;
+    margin-bottom: 10px;
+
+}
+.right{
+    float: right;
+    width: 395;
+    height: 222;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.left{
+    float: left;
+    width: 395;
+    height: 222;
+    margin-top: 10px;
+    
+}
+body{
+    margin:0 auto;
+    width: 800px;
+
+}
+.red{
+    height: 111px;
+    width: 800px;
+    background-color: pink;
+    margin-top: 10px;
+    float:left;
+    margin-bottom: 10px;
+
+}
+
+.map{
+    width:800px;
+    height:400px;
+    margin-top: 10px;
+
+
+}
